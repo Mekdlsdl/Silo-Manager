@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "323307818461",
+    "firebase_url": "https://silomanagertest-866db-default-rtdb.firebaseio.com",
+    "project_id": "silomanagertest-866db",
+    "storage_bucket": "silomanagertest-866db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323307818461:android:7df1fe9849e2897a573a34",
+        "android_client_info": {
+          "package_name": "com.Dain.SiloManagerTest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1uTCCG4mKkun3GhIHFFA0Is7flHMeEeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
